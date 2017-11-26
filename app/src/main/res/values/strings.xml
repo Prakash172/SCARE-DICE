@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScarneDice</string>
+    <string name="your_score_d">Your Score: %d</string>
+    <string name="computer_score_d">Computer score: %d</string>
+    <string name="roll">Roll</string>
+    <string name="hold">Hold</string>
+    <string name="reset">Reset</string>
+</resources>
